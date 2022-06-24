@@ -11,3 +11,4 @@ ____
 For interesting job offers, DM me in:
  - [Telegram](http://t-do.ru/evdidenko "Telegram")
  - [Instagram](https://www.instagram.com/evgeny_didenko93/ "Instagram")
+ - [Gmail](mailto:didenkoev93@gmail.com/ "Gmail")
