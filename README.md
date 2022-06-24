@@ -12,4 +12,4 @@ For interesting job offers, DM me in:
  - [Telegram](http://t-do.ru/evdidenko "Telegram")
  - [Instagram](https://www.instagram.com/evgeny_didenko93/ "Instagram")
  - [Gmail](mailto:didenkoev93@gmail.com "Gmail")
- - [WatsApp](https://wa.me/89237054446 "WatsApp")
+ - [WatsApp](https://wa.me/79237054446 "WatsApp")
