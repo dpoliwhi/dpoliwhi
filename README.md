@@ -8,8 +8,11 @@ ____
  - Interested in *backend, algorithms*
  - Use *OOP, Qt, Git, Linux*
 
+You can see my resume at the [link]([http://t-do.ru/evdidenko](https://novosibirsk.hh.ru/resume/b8e73581ff0afb7a750039ed1f446f54433374) "hh.ru")
+
 For interesting job offers, DM me in:
  - [Telegram](http://t-do.ru/evdidenko "Telegram")
+ - [WatsApp](https://wa.clck.bar/79237054446 "WatsApp")
  - [Instagram](https://www.instagram.com/evgeny_didenko93/ "Instagram")
  - [Gmail](mailto:didenkoev93@gmail.com "Gmail")
- - [WatsApp](https://wa.clck.bar/79237054446 "WatsApp")
+ 
