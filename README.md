@@ -7,7 +7,6 @@ ____
  - Learning Java
  - Interested in *backend, algorithms*
  - Use *OOP, Qt, Git, Linux*
-<!---
-dpoliwhi/dpoliwhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+For interesting job offers, DM me in:
+ - [@evdidenko](http://t-do.ru/evdidenko "Telegram")
