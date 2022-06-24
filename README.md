@@ -9,4 +9,5 @@ ____
  - Use *OOP, Qt, Git, Linux*
 
 For interesting job offers, DM me in:
- - [@evdidenko](http://t-do.ru/evdidenko "Telegram")
+ - [Telegram](http://t-do.ru/evdidenko "Telegram")
+ - [Instagram](https://www.instagram.com/evgeny_didenko93/ "Instagram")
