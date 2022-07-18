@@ -4,6 +4,7 @@ ____
 ***Hello everyone!***
  - I am a student of **School 21**
  - Code in C/C++
+ - Use PostgreSQL
  - Learning Java
  - Interested in *backend, algorithms*
  - Use *OOP, Qt, Git, Linux*
