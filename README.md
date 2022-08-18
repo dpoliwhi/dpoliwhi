@@ -14,14 +14,17 @@ You can see my resume at [hh.ru](https://novosibirsk.hh.ru/resume/b8e73581ff0afb
 **********
 <p align="center">
  <a href="https://t.me/evdidenko">
-  <img src="tg.png" alt="drawing" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="drawing" width="40"/>
  </a>
  &nbsp;&nbsp;
  <a href="mailto:didenkoev93@gmail.com">
-  <img src="GM.png" alt="drawing" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="drawing" width="50"/>
  </a>
- 
-</p>
+ &nbsp;&nbsp;
+ <a href="https://wa.clck.bar/79237054446">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" alt="drawing" width="48"/>
+ </a>
+ </p>
 
  - [Telegram](http://t-do.ru/evdidenko "Telegram")
  - [WatsApp](https://wa.clck.bar/79237054446 "WatsApp")
