@@ -14,7 +14,7 @@ You can see my resume at [hh.ru](https://novosibirsk.hh.ru/resume/b8e73581ff0afb
 **********
 <p align="center">
  <a href="https://t.me/evdidenko">
-  <img src="tg.png" alt="drawing" width="50"/>
+  <img src="tg.png" alt="drawing" width="40"/>
  </a>
  &nbsp;&nbsp;
  <a href="mailto:didenkoev93@gmail.com">
