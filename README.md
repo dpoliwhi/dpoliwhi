@@ -22,12 +22,16 @@ You can see my resume at [hh.ru](https://novosibirsk.hh.ru/resume/b8e73581ff0afb
  </a>
  &nbsp;&nbsp;
  <a href="https://wa.clck.bar/79237054446">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" alt="drawing" width="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" alt="drawing" width="45"/>
+ </a>
+ &nbsp;&nbsp;
+ <a href="https://www.instagram.com/evgeny_didenko93/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png" alt="drawing" width="50"/>
  </a>
  </p>
-
+<!-- 
  - [Telegram](http://t-do.ru/evdidenko "Telegram")
  - [WatsApp](https://wa.clck.bar/79237054446 "WatsApp")
  - [Instagram](https://www.instagram.com/evgeny_didenko93/ "Instagram")
- - [Gmail](mailto:didenkoev93@gmail.com "Gmail")
+ - [Gmail](mailto:didenkoev93@gmail.com "Gmail") -->
  
