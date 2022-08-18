@@ -11,10 +11,16 @@ ____
 
 You can see my resume at [hh.ru](https://novosibirsk.hh.ru/resume/b8e73581ff0afb7a750039ed1f446f54433374 "hh.ru")
 
-For interesting job offers, DM me in:
+**********
 <p align="center">
-<a href="http://t-do.ru/evdidenko">
-<img src="tg.png" alt="drawing" width="50"/>
+ <a href="http://t-do.ru/evdidenko">
+  <img src="tg.png" alt="drawing" width="50"/>
+ </a>
+ &nbsp;&nbsp;
+ <a href="mailto:didenkoev93@gmail.com">
+  <img src="GM.png" alt="drawing" width="50"/>
+ </a>
+ 
 </p>
 
  - [Telegram](http://t-do.ru/evdidenko "Telegram")
