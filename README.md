@@ -3,13 +3,14 @@ ____
 
 ***Hello everyone!***
  - I am a student of **School 21**
- - Code in C/C++
+ - Code in C/C++, Java
  - Use PostgreSQL
- - Learning Java SE
- - Interested in *backend, algorithms*
- - Use *OOP, Qt, Git, Linux*
+ - Learning Spring
+ - Interested in *backend, web-development*
+ - Use *OOP, Qt, Maven, Git, Linux*
+ - Testing by *Gtest,  JUnit*
 
-You can see my resume at [hh.ru](https://novosibirsk.hh.ru/resume/b8e73581ff0afb7a750039ed1f446f54433374 "hh.ru")
+You can see my resume at [hh.ru](https://novosibirsk.hh.ru/resume/b8e73581ff0afb7a750039ed1f446f54433374 "hh.ru C++ dev") and at [hh.ru](https://hh.ru/resume/8a93bdd6ff0b541d770039ed1f615849726a50 "hh.ru Java dev"
 
 <!-- You can see my resume at &nbsp; <a href="[https://t.me/evdidenko](https://novosibirsk.hh.ru/resume/b8e73581ff0afb7a750039ed1f446f54433374)">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" alt="drawing" width="25"/>
