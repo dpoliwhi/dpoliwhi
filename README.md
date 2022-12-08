@@ -3,10 +3,10 @@ ____
 
 ***Hello everyone!***
  - I am a student of **School 21**
- - Code in C/C++, Java
+ - Code in Java, C/C++
  - Use PostgreSQL
  - Learning Spring
- - Interested in *backend, web-development*
+ - Interested in *backend, web_dev*
  - Use *OOP, Qt, Maven, Git, Linux*
  - Testing by *Gtest,  JUnit*
 
