@@ -2,13 +2,13 @@
 ____
 
 ***Hello everyone!***
- - I am a student of **School 21**
+ - I am a student of **School 21** and **Sber University**
  - Code in Java, C/C++
- - Use PostgreSQL
+ - Use PostgreSQL, Hibernate
  - Learning Spring
  - Interested in *backend, web_dev*
  - Use *OOP, Qt, Maven, Git, Linux*
- - Testing by *Gtest,  JUnit*
+ - Testing by *Gtest,  JUnit, Mockito*
 
 You can see my resume at [hh.ru](https://hh.ru/resume/8a93bdd6ff0b541d770039ed1f615849726a50 "hh.ru")
 
