@@ -4,8 +4,8 @@ ____
 ***Hello everyone!***
  - I am a student of **School 21** and **Sber University**
  - Code in Java, C/C++
- - Use PostgreSQL, Hibernate
- - Learning Spring
+ - Use PostgreSQL, Hibernate, Spring
+ - Learning Sequrity
  - Interested in *backend, web_dev*
  - Use *OOP, Qt, Maven, Git, Linux*
  - Testing by *Gtest,  JUnit, Mockito*
