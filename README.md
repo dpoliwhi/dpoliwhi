@@ -11,7 +11,7 @@ ____
  - Use *Linux, Git, Docker*
  - Testing by *Gtest,  JUnit, Mockito*
 
-Look at my [portfolio](http://evgeny-didenko-portfolio.tilda.ws/)
+Look at my [portfolio](http://evgeny-didenko-portfolio.tilda.ws/) \
 Also you can see my resume at [hh.ru](https://hh.ru/resume/8a93bdd6ff0b541d770039ed1f615849726a50 "hh.ru")
 
 **********
