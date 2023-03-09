@@ -2,19 +2,17 @@
 ____
 
 ***Hello everyone!***
- - I am a student of **School 21** and **Sber University**
+ - I am a backend developer and a student of **School 21**
+ - Got a diploma in Java_dev from **Sber University**
  - Code in Java, C/C++
  - Use PostgreSQL, Hibernate, Spring
- - Learning Sequrity
+ - Learning Microservice architecture
  - Interested in *backend, web_dev*
- - Use *OOP, Qt, Maven, Git, Linux*
+ - Use *Linux, Git, Docker*
  - Testing by *Gtest,  JUnit, Mockito*
 
-You can see my resume at [hh.ru](https://hh.ru/resume/8a93bdd6ff0b541d770039ed1f615849726a50 "hh.ru")
-
-<!-- You can see my resume at &nbsp; <a href="[https://t.me/evdidenko](https://novosibirsk.hh.ru/resume/b8e73581ff0afb7a750039ed1f446f54433374)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" alt="drawing" width="25"/>
- </a> -->
+Look at my [portfolio](http://evgeny-didenko-portfolio.tilda.ws/)
+Also you can see my resume at [hh.ru](https://hh.ru/resume/8a93bdd6ff0b541d770039ed1f615849726a50 "hh.ru")
 
 **********
 <p align="center">
