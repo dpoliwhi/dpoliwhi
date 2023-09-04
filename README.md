@@ -2,17 +2,16 @@
 ____
 
 ***Hello everyone!***
- - I am a backend developer and a student of **School 21**
+ - I am a backend developer in **SmartConsulting** 
  - Got a diploma in Java_dev from **Sber University**
- - Code in Java, C/C++
- - Use PostgreSQL, Hibernate, Spring
+ - Studied at **School 21**
+ - Code in Java EE, JS+Angular
+ - Use PostgreSQL, Solr, Hibernate, Spring, C/C++
  - Learning Microservice architecture
- - Interested in *backend, web_dev*
- - Use *Linux, Git, Docker*
- - Testing by *Gtest,  JUnit, Mockito*
+ - Interested in *web_dev*
+ - Use *Linux, Git, Docker, Jira, Confluence*
 
-Look at my [portfolio](http://evgeny-didenko-portfolio.tilda.ws/) \
-Also you can see my resume at [hh.ru](https://hh.ru/resume/8a93bdd6ff0b541d770039ed1f615849726a50 "hh.ru")
+You can see my resume at [hh.ru](https://hh.ru/resume/8a93bdd6ff0b541d770039ed1f615849726a50 "hh.ru")
 
 **********
 <p align="center">
