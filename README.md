@@ -5,17 +5,18 @@ ____
  - I am a backend developer in **SmartConsulting** 
  - Got a diploma in Java_dev from **Sber University**
  - Studied at **School 21**
- - Code in Java EE, JS+Angular
- - Use PostgreSQL, Solr, Hibernate, Spring, C/C++
+ - Code in Java SE, Java EE, JS+Angular
+ - Use PostgreSQL, Solr, Hibernate, Spring, Kafka
  - Learning Microservice architecture
  - Interested in *web_dev*
- - Use *Linux, Git, Docker, Jira, Confluence*
+ - Use *Linux, Git, Docker, WildFly, Jira, Confluence*
 
+Look at my [portfolio](https://evgeny-didenko-portfolio.tilda.ws/ "portfolio")
 You can see my resume at [hh.ru](https://hh.ru/resume/8a93bdd6ff0b541d770039ed1f615849726a50 "hh.ru")
 
 **********
 <p align="center">
- <a href="https://t.me/evdidenko">
+ <a href="https://t.me/didenko_evgeny">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="drawing" width="40"/>
  </a>
  &nbsp;&nbsp;
