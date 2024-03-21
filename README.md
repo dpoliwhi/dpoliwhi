@@ -12,7 +12,7 @@ ____
  - Use *Linux, Git, Docker, WildFly, Jira, Confluence*
 
 Look at my [portfolio](https://evgeny-didenko-portfolio.tilda.ws/ "portfolio")<br>
-You can see my resume at [hh.ru](https://hh.ru/resume/8a93bdd6ff0b541d770039ed1f615849726a50 "hh.ru")
+Also you can see my resume at [hh.ru](https://hh.ru/resume/8a93bdd6ff0b541d770039ed1f615849726a50 "hh.ru")
 
 **********
 <p align="center">
